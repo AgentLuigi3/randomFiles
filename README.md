@@ -1,7 +1,7 @@
 # randomMusic
 Just a bunch of random music and audio clips. For use with programs.
 
-**Disclaimer**
+**Disclaimer:** \n
 I do not own any of these sounds except the following:
   - Whiteboard and Marker Clips
 
