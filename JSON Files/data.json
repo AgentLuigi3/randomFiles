@@ -1,0 +1,24 @@
+{ "blocks": [ 
+        { "name": "Kendo",          "day": 2, "start": 7.5, "duration": 120, "color": "red" }, 
+        { "name": "Kendo",          "day": 4, "start": 7.5, "duration": 120, "color": "red" }, 
+        { "name": "Discrete Math",  "day": 1, "start": 7.5, "duration": 120, "color": "magenta" }, 
+        { "name": "Discrete Math",  "day": 3, "start": 7.5, "duration": 120, "color": "magenta" }, 
+        { "name": "Japanese",       "day": 2, "start": 7.5, "duration": 120, "color": "lime" }, 
+        { "name": "Japanese",       "day": 2, "start": 7.5, "duration": 120, "color": "lime" }, 
+        { "name": "Japanese REC",   "day": 2, "start": 7.5, "duration": 120, "color": "lime" }, 
+        { "name": "Japanese REC",   "day": 2, "start": 7.5, "duration": 120, "color": "lime" }, 
+        { "name": "URSGA",          "day": 2, "start": 7.5, "duration": 120, "color": "green" }, 
+        { "name": "Wind Symphony",  "day": 2, "start": 7.5, "duration": 120, "color": "blue" },
+        { "name": "CSC172 LAB",     "day": 2, "start": 7.5, "duration": 120, "color": "cyan" }, 
+        { "name": "CSC172 LAB",     "day": 2, "start": 7.5, "duration": 120, "color": "cyan" }, 
+        { "name": "CSC172 LEC",     "day": 2, "start": 7.5, "duration": 120, "color": "cyan" }, 
+        { "name": "CSC172 LEC",     "day": 2, "start": 7.5, "duration": 120, "color": "cyan" }, 
+        { "name": "CSC172 WKSHP",   "day": 2, "start": 7.5, "duration": 120, "color": "cyan" }, 
+        { "name": "CSC172 WKSHP",   "day": 2, "start": 7.5, "duration": 120, "color": "cyan" }, 
+        { "name": "Writing",        "day": 2, "start": 7.5, "duration": 120, "color": "yellow" }, 
+        { "name": "Writing",        "day": 2, "start": 7.5, "duration": 120, "color": "yellow" }, 
+        { "name": "Jazz",           "day": 2, "start": 7.5, "duration": 120, "color": "blue" }, 
+        { "name": "Beatbox Jam",    "day": 2, "start": 7.5, "duration": 120, "color": "orange" }, 
+        { "name": "Beatbox Wkshp",  "day": 2, "start": 7.5, "duration": 120, "color": "orange" }
+    ] 
+}
