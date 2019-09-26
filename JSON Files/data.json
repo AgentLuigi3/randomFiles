@@ -3,7 +3,7 @@
         { "name": "Kendo",          "day": 4, "start": "07:30 PM", "duration": 120, "color": "red" }, 
         { "name": "Discrete Math",  "day": 1, "start": "10:25 AM", "duration": 75, "color": "magenta" }, 
         { "name": "Discrete Math",  "day": 3, "start": "10:25 AM", "duration": 75, "color": "magenta" }, 
-        { "name": "Japanese",       "day": 1, "start": "12:30 AM", "duration": 75, "color": "lime" }, 
+        { "name": "Japanese",       "day": 1, "start": "12:30 PM", "duration": 75, "color": "lime" }, 
         { "name": "Japanese",       "day": 3, "start": "12:30 PM", "duration": 75, "color": "lime" }, 
         { "name": "Japanese REC",   "day": 2, "start": "09:40 AM", "duration": 75, "color": "lime" }, 
         { "name": "Japanese REC",   "day": 4, "start": "09:40 AM", "duration": 75, "color": "lime" }, 
