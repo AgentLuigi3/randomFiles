@@ -8,7 +8,7 @@
         { "name": "Japanese REC",   "day": 2, "start": "09:40 AM", "duration": 75, "color": "lime" }, 
         { "name": "Japanese REC",   "day": 4, "start": "09:40 AM", "duration": 75, "color": "lime" }, 
         { "name": "URSGA",          "day": 1, "start": "07:00 PM", "duration": 240, "color": "green" }, 
-        { "name": "Wind Symphony",  "day": 1, "start": "07:30 PM", "duration": 120, "color": "blue" },
+        { "name": "Wind Symphony",  "day": 1, "start": "07:30 PM", "duration": 120, "color": "purple" },
         { "name": "CSC172 LAB",     "day": 1, "start": "09:00 AM", "duration": 75, "color": "cyan" }, 
         { "name": "CSC172 LAB",     "day": 3, "start": "09:00 AM", "duration": 75, "color": "cyan" }, 
         { "name": "CSC172 LEC",     "day": 2, "start": "03:25 PM", "duration": 75, "color": "cyan" }, 
@@ -16,8 +16,9 @@
         { "name": "CSC172 WKSHP",   "day": 3, "start": "07:40 PM", "duration": 75, "color": "cyan" },  
         { "name": "Writing",        "day": 2, "start": "11:05 AM", "duration": 75, "color": "yellow" }, 
         { "name": "Writing",        "day": 4, "start": "11:05 AM", "duration": 75, "color": "yellow" }, 
-        { "name": "Jazz",           "day": 4, "start": "05:10 PM", "duration": 65, "color": "blue" }, 
+        { "name": "Jazz",           "day": 4, "start": "05:10 PM", "duration": 65, "color": "purple" }, 
         { "name": "Beatbox Jam",    "day": 7, "start": "05:30 PM", "duration": 60, "color": "orange" }, 
         { "name": "Beatbox Wkshp",  "day": 5, "start": "07:00 PM", "duration": 60, "color": "orange" }
+        { "name": "Splash",         "day": 5, "start": "04:00 PM", "duration": 60, "color": "blue" }
     ] 
 }
