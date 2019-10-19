@@ -18,7 +18,7 @@
         { "name": "Writing",        "day": 4, "start": "11:05 AM", "duration": 75, "color": "yellow" }, 
         { "name": "Jazz",           "day": 4, "start": "05:10 PM", "duration": 65, "color": "purple" }, 
         { "name": "Beatbox Jam",    "day": 7, "start": "05:30 PM", "duration": 60, "color": "orange" }, 
-        { "name": "Beatbox Wkshp",  "day": 5, "start": "07:00 PM", "duration": 60, "color": "orange" }
+        { "name": "Beatbox Wkshp",  "day": 5, "start": "07:00 PM", "duration": 60, "color": "orange" },
         { "name": "Splash",         "day": 5, "start": "04:00 PM", "duration": 60, "color": "blue" }
     ] 
 }
