@@ -18,8 +18,8 @@
         { "name": "Kendo",          "day": 2, "start": "07:30 PM", "duration": 120, "color": "red" }, 
         { "name": "Kendo",          "day": 4, "start": "07:30 PM", "duration": 120, "color": "red" }, 
         { "name": "Splash",         "day": 6, "start": "04:00 PM", "duration": 60, "color": "blue" }, 
-        { "name": "Beatbox Jam",    "day": 7, "start": "05:30 PM", "duration": 60, "color": "orange" }, 
         { "name": "Beatbox Wkshp",  "day": 5, "start": "07:00 PM", "duration": 60, "color": "orange" },
+        { "name": "Beatbox Jam",    "day": 7, "start": "05:30 PM", "duration": 60, "color": "orange" }, 
         { "name": "OA Rehearsal",   "day": 6, "start": "01:00 PM", "duration": 90, "color": "purple" },
         { "name": "OA Rehearsal",   "day": 7, "start": "01:00 PM", "duration": 90, "color": "purple" }
     ] 
