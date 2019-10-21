@@ -17,8 +17,10 @@
         { "name": "Writing",        "day": 2, "start": "11:05 AM", "duration": 75, "color": "yellow" }, 
         { "name": "Writing",        "day": 4, "start": "11:05 AM", "duration": 75, "color": "yellow" }, 
         { "name": "Jazz",           "day": 4, "start": "05:10 PM", "duration": 65, "color": "brown" },
-        { "name": "Splash",         "day": 5, "start": "04:00 PM", "duration": 60, "color": "blue" }, 
+        { "name": "Splash",         "day": 6, "start": "04:00 PM", "duration": 60, "color": "blue" }, 
         { "name": "Beatbox Jam",    "day": 7, "start": "05:30 PM", "duration": 60, "color": "orange" }, 
-        { "name": "Beatbox Wkshp",  "day": 5, "start": "07:00 PM", "duration": 60, "color": "orange" }
+        { "name": "Beatbox Wkshp",  "day": 5, "start": "07:00 PM", "duration": 60, "color": "orange" },
+        { "name": "OA Rehearsal",   "day": 6, "start": "01:00 PM", "duration": 90, "color": "purple" },
+        { "name": "OA Rehearsal",   "day": 7, "start": "01:00 PM", "duration": 90, "color": "purple" }
     ] 
 }
