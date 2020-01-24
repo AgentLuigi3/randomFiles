@@ -8,7 +8,6 @@
         { "name": "Japanese REC",   "day": 4, "start": "03:25 PM", "duration": 75, "color": "lime" },
         { "name": "CSC173",         "day": 1, "start": "11:50 AM", "duration": 75, "color": "yellow" }, 
         { "name": "CSC173",         "day": 3, "start": "11:50 AM", "duration": 75, "color": "yellow" },
-        { "name": "EAS141",         "day": 5, "start": "02:00 PM", "duration": 75, "color": "purple" },
         { "name": "LIN110 LEC",     "day": 2, "start": "02:00 PM", "duration": 75, "color": "cyan" }, 
         { "name": "LIN110 LEC",     "day": 4, "start": "02:00 PM", "duration": 75, "color": "cyan" }, 
         { "name": "LIN110 WKSHP",   "day": 2, "start": "11:05 AM", "duration": 75, "color": "cyan" },  
