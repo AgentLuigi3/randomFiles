@@ -1,0 +1,23 @@
+{ "blocks": [
+        { "name": "CSC242",         "day": 1, "start": "03:25 PM", "duration": 75, "color": "magenta" }, 
+        { "name": "CSC242",         "day": 3, "start": "03:25 PM", "duration": 75, "color": "magenta" }, ,
+        { "name": "CSC252",         "day": 2, "start": "03:25 PM", "duration": 75, "color": "cyan" }, 
+        { "name": "CSC252",         "day": 4, "start": "03:25 PM", "duration": 75, "color": "cyan" }, 
+        { "name": "EAS141 (10/14)", "day": 5, "start": "02:00 PM", "duration": 160, "color": "magenta" },
+        { "name": "Japanese",       "day": 1, "start": "12:30 AM", "duration": 75, "color": "lime" }, 
+        { "name": "Japanese",       "day": 3, "start": "12:30 AM", "duration": 75, "color": "lime" }, 
+        { "name": "Japanese REC",   "day": 2, "start": "11:05 AM", "duration": 75, "color": "lime" }, 
+        { "name": "Japanese REC",   "day": 4, "start": "11:05 AM", "duration": 75, "color": "lime" },
+        { "name": "Theory I",       "day": 1, "start": "11:50 AM", "duration": 75, "color": "yellow" }, 
+        { "name": "Theory I",       "day": 3, "start": "11:50 AM", "duration": 75, "color": "yellow" }, 
+        { "name": "URSGA",          "day": 1, "start": "07:00 PM", "duration": 240, "color": "green" },
+        { "name": "Wind Symphony",  "day": 1, "start": "07:30 PM", "duration": 120, "color": "brown" }, 
+        { "name": "Jazz",           "day": 4, "start": "05:10 PM", "duration": 65, "color": "brown" },  
+        { "name": "Kendo",          "day": 2, "start": "07:30 PM", "duration": 120, "color": "red" }, 
+        { "name": "Kendo",          "day": 4, "start": "07:30 PM", "duration": 120, "color": "red" },
+        { "name": "Kendo",          "day": 7, "start": "01:00 PM", "duration": 120, "color": "red" },
+        { "name": "Splash",         "day": 6, "start": "03:00 PM", "duration": 60, "color": "blue" }, 
+        { "name": "Beatbox Wkshp",  "day": 5, "start": "06:00 PM", "duration": 60, "color": "orange" },
+        { "name": "Beatbox Jam",    "day": 7, "start": "04:00 PM", "duration": 60, "color": "orange" }
+    ] 
+}
